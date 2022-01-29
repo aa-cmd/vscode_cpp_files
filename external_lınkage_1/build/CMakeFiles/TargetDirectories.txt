@@ -1,0 +1,3 @@
+D:/ican/cpp_files/vscode_cpp_files/external_lınkage_1/build/CMakeFiles/demo.dir
+D:/ican/cpp_files/vscode_cpp_files/external_lınkage_1/build/CMakeFiles/ALL_BUILD.dir
+D:/ican/cpp_files/vscode_cpp_files/external_lınkage_1/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\ICAN\CPP_FILES\VSCODE_CPP_FILES\SIMPLE_INHERITANCE_1\BUILD\CMAKEFILES\9CD4337EF47A710284625CF96A9DC2F7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ican/cpp_files/vscode_cpp_files/simple_inheritance_1 -BD:/ican/cpp_files/vscode_cpp_files/simple_inheritance_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ican/cpp_files/vscode_cpp_files/simple_inheritance_1/build/Simple_Inheritance_1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

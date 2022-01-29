@@ -1,0 +1,3 @@
+D:/ican/cpp_files/vscode_cpp_files/numword_1/build/CMakeFiles/numword_trial_1.dir
+D:/ican/cpp_files/vscode_cpp_files/numword_1/build/CMakeFiles/ALL_BUILD.dir
+D:/ican/cpp_files/vscode_cpp_files/numword_1/build/CMakeFiles/ZERO_CHECK.dir

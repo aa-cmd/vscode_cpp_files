@@ -1,0 +1,3 @@
+D:/ican/cpp_files/vscode_cpp_files/smart_pointers_1/build/CMakeFiles/smart_pointers_1.dir
+D:/ican/cpp_files/vscode_cpp_files/smart_pointers_1/build/CMakeFiles/ALL_BUILD.dir
+D:/ican/cpp_files/vscode_cpp_files/smart_pointers_1/build/CMakeFiles/ZERO_CHECK.dir

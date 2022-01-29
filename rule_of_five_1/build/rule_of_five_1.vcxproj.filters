@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ican\cpp_files\vscode_cpp_files\rule_of_five_1\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ican\cpp_files\vscode_cpp_files\rule_of_five_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{04EAB56F-4D18-3EA5-A63A-F7A37FE9E50C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

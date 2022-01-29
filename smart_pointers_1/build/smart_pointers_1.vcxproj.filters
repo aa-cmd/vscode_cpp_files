@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\ican\cpp_files\vscode_cpp_files\smart_pointers_1\src\unique.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\ican\cpp_files\vscode_cpp_files\smart_pointers_1\src\strc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\ican\cpp_files\vscode_cpp_files\smart_pointers_1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2CABCC10-6D15-3D96-9357-D9520C4D78E6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

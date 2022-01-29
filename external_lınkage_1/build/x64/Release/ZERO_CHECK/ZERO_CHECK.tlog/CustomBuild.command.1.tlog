@@ -1,0 +1,10 @@
+^D:\ICAN\CPP_FILES\VSCODE_CPP_FILES\EXTERNAL_LıNKAGE_1\BUILD\CMAKEFILES\C8723F11D03083150D7C54685A693A04\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ican/cpp_files/vscode_cpp_files/external_lınkage_1 -BD:/ican/cpp_files/vscode_cpp_files/external_lınkage_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ican/cpp_files/vscode_cpp_files/external_lınkage_1/build/external_linkage.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

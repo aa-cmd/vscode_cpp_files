@@ -1,0 +1,10 @@
+^D:\ICAN\CPP_FILES\VSCODE_CPP_FILES\NUMWORD_1\BUILD\CMAKEFILES\5BC2441E140B8E80BCDD74ECC13528B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ican/cpp_files/vscode_cpp_files/numword_1 -BD:/ican/cpp_files/vscode_cpp_files/numword_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ican/cpp_files/vscode_cpp_files/numword_1/build/numword_trial_1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

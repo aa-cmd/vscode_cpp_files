@@ -1,0 +1,10 @@
+^D:\ICAN\CPP_FILES\VSCODE_CPP_FILES\SMART_POINTERS_1\BUILD\CMAKEFILES\E1F5DDEAD515D07DCBB593979C5B1C04\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/ican/cpp_files/vscode_cpp_files/smart_pointers_1 -BD:/ican/cpp_files/vscode_cpp_files/smart_pointers_1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ican/cpp_files/vscode_cpp_files/smart_pointers_1/build/smart_pointers_1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
